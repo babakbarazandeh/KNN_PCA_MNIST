@@ -14,4 +14,4 @@ N_Training: Number of training points from data set
 
 PATH: Location of the data set
 
-This will select the N_testing+N_training from data set and use the first N_testing for testing purpose and the other N_training for training purpose. Output is a text file showing the estimated label and its ground truth in each line. 
+This will select N_testing+N_training from data set and use the first N_testing for testing purpose and the other N_training for training purpose. Output is a text file showing the estimated label and its ground truth in each line. 
