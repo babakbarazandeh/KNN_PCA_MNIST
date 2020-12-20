@@ -1,8 +1,8 @@
 # KNN_PCA_MNIST
 This is an implementation of K-NN for classification of MNIST data set. We use Principal component analysis (PCA) to reduce the dimension of the data. 
 
-Input:
-Run main.py K, D, N_Testing, N_Training, PATH
+## How to run
+python3 main.py K, D, N_Testing, N_Training, PATH
 K: The number of neighbors
 D: Desired new dimension 
 N_Testing: Number of testing points from data set
