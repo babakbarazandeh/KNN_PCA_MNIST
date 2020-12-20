@@ -3,6 +3,7 @@ This is an implementation of K-NN for classification of MNIST data set. We use P
 
 ## How to run
 python3 main.py K, D, N_Testing, N_Training, PATH
+
 K: The number of neighbors
 D: Desired new dimension 
 N_Testing: Number of testing points from data set
